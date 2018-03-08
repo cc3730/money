@@ -1,0 +1,6 @@
+C:\dma\first1\New\New\bin\Debug\New.exe.config
+C:\dma\first1\New\New\bin\Debug\New.exe
+C:\dma\first1\New\New\bin\Debug\New.pdb
+C:\dma\first1\New\New\obj\Debug\New.csprojResolveAssemblyReference.cache
+C:\dma\first1\New\New\obj\Debug\New.exe
+C:\dma\first1\New\New\obj\Debug\New.pdb
